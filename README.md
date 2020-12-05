@@ -1,2 +1,2 @@
-# Project 31 : Plinko
-Project 31 
+project 31
+pinko 
